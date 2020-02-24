@@ -1,6 +1,5 @@
 package hashMap;
 
-
 import java.util.HashMap;
 
 public class _4_MyClass {

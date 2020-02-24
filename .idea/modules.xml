@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/02324_Solutions_4-6_.iml" filepath="$PROJECT_DIR$/02324_Solutions_4-6_.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4_Collections/4_Collections.iml" filepath="$PROJECT_DIR$/4_Collections/4_Collections.iml" />
       <module fileurl="file://$PROJECT_DIR$/4_Generics/4_Generics.iml" filepath="$PROJECT_DIR$/4_Generics/4_Generics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4_GenericsList/4_GenericsList.iml" filepath="$PROJECT_DIR$/4_GenericsList/4_GenericsList.iml" />
       <module fileurl="file://$PROJECT_DIR$/ppL04/ppL04.iml" filepath="$PROJECT_DIR$/ppL04/ppL04.iml" />
     </modules>
   </component>
