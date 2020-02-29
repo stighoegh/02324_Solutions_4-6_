@@ -1,8 +1,6 @@
 package hashMap;
-
 import java.util.HashMap;
 import java.util.Map;
-
 public class AccessKeysFromHashMapExample {
     public static void main(String[] args) {
         Map<String, String> userCityMapping = new HashMap<>();

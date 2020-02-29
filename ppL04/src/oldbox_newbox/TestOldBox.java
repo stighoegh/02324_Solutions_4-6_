@@ -15,8 +15,8 @@ public class TestOldBox {
 
         intBox = strBox;
 
-//        System.out.println(intBox);
-//        System.out.println(strBox);
+       System.out.println(intBox);
+        System.out.println(strBox);
 
 
     }
