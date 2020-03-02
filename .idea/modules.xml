@@ -4,9 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/02324_Solutions_4-6_.iml" filepath="$PROJECT_DIR$/02324_Solutions_4-6_.iml" />
       <module fileurl="file://$PROJECT_DIR$/4_Collections_Vector_interface/4_Collections_Vector_interface.iml" filepath="$PROJECT_DIR$/4_Collections_Vector_interface/4_Collections_Vector_interface.iml" />
-      <module fileurl="file://$PROJECT_DIR$/4_Generics/4_Generics.iml" filepath="$PROJECT_DIR$/4_Generics/4_Generics.iml" />
-      <module fileurl="file://$PROJECT_DIR$/4_GenericsList/4_GenericsList.iml" filepath="$PROJECT_DIR$/4_GenericsList/4_GenericsList.iml" />
-      <module fileurl="file://$PROJECT_DIR$/4_Stak/4_Stak.iml" filepath="$PROJECT_DIR$/4_Stak/4_Stak.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4_Generics_/4_Generics.iml" filepath="$PROJECT_DIR$/4_Generics_/4_Generics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4_Generics_/4_Generics_.iml" filepath="$PROJECT_DIR$/4_Generics_/4_Generics_.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4_Opgave_Generisk interface/4_Opgave_Generisk interface.iml" filepath="$PROJECT_DIR$/4_Opgave_Generisk interface/4_Opgave_Generisk interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/5_CopyFileUsingByteStream/5_CopyFileUsingByteStream.iml" filepath="$PROJECT_DIR$/5_CopyFileUsingByteStream/5_CopyFileUsingByteStream.iml" />
       <module fileurl="file://$PROJECT_DIR$/5_ReadDir/5_ReadDir.iml" filepath="$PROJECT_DIR$/5_ReadDir/5_ReadDir.iml" />
       <module fileurl="file://$PROJECT_DIR$/5_Serialisering _af_objekter/5_Serialisering _af_objekter.iml" filepath="$PROJECT_DIR$/5_Serialisering _af_objekter/5_Serialisering _af_objekter.iml" />

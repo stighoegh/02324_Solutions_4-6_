@@ -8,9 +8,8 @@ public class StakTest {
 		
 		//stak = new LinkedStakImpl<Integer>();
 		//stak = new StakImpl<Integer>();
-
-		stak = new LinkedStakImpl<String>();
-		//stak = new StakImpl<String>();
+		//stak = new LinkedStakImpl<String>();
+		stak = new StakImpl<String>();
 		
 		pushAndShow(stak);
 		System.out.println("------------");

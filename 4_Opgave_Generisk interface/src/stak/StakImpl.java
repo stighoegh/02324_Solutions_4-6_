@@ -13,7 +13,6 @@ public class StakImpl<T> implements Stak<T>{
 		list.add(element);
 		
 	}
-
 	@Override
 	public T pop() {
 		return list.remove(list.size()-1);
