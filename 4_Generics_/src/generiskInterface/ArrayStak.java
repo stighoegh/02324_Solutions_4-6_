@@ -1,5 +1,5 @@
 package generiskInterface;
-public class ArrayStak implements IStak{
+public class   ArrayStak implements IStak{
 		
 		private String data[];
 		private int staktop;

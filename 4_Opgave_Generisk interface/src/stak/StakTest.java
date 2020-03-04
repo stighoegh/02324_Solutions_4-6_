@@ -3,7 +3,7 @@ package stak;
 public class StakTest {
 
 	public static void main(String[] args) {
-		//Stak<Integer> stak;
+		// Stak<Integer> stak;
 		Stak<String> stak;
 		
 		//stak = new LinkedStakImpl<Integer>();
@@ -22,10 +22,10 @@ public class StakTest {
 //		Integer y = new Integer(3);
 //		stak.push(new Integer(1));
 //		stak.push(new Integer(2));
-//		stak.push(y);
+		stak.push("------------");
 		stak.push("mærkelig ");
 		stak.push("sætning");
-		
+//
 		stak.show();
 	}
 }

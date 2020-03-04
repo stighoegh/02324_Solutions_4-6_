@@ -10,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/5_CopyFileUsingByteStream/5_CopyFileUsingByteStream.iml" filepath="$PROJECT_DIR$/5_CopyFileUsingByteStream/5_CopyFileUsingByteStream.iml" />
       <module fileurl="file://$PROJECT_DIR$/5_ReadDir/5_ReadDir.iml" filepath="$PROJECT_DIR$/5_ReadDir/5_ReadDir.iml" />
       <module fileurl="file://$PROJECT_DIR$/5_Serialisering _af_objekter/5_Serialisering _af_objekter.iml" filepath="$PROJECT_DIR$/5_Serialisering _af_objekter/5_Serialisering _af_objekter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/6_tre_lagsmodel_med_DTO/6_tre_lagsmodel_med_DTO.iml" filepath="$PROJECT_DIR$/6_tre_lagsmodel_med_DTO/6_tre_lagsmodel_med_DTO.iml" />
       <module fileurl="file://$PROJECT_DIR$/ppL04/ppL04.iml" filepath="$PROJECT_DIR$/ppL04/ppL04.iml" />
     </modules>
   </component>
