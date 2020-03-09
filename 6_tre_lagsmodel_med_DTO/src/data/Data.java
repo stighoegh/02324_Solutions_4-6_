@@ -20,14 +20,14 @@ public class Data implements IData {
                 if (s.getId() == id)
                    throw new NummerFindesAllerede(id);
           ingredientsList.add(new IngDTO(id, name, amount));
-          //writeToDisk(ingredientsList);
+
     }
     public void createIngredient(IngDTO ing) throws NummerFindesAllerede {
         for (IngDTO s : ingredientsList)
             if (s.getId() == ing.getId())
                 throw new NummerFindesAllerede(s.getId());
         ingredientsList.add(ing);
-        //writeToDisk(ingredientsList);
+
     }
 }
 

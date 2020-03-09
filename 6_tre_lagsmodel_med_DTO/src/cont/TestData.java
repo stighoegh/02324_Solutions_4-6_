@@ -1,21 +1,27 @@
 package cont;
 import data.Data;
+import data.DataToDisk;
 import data.IData;
 import dto.IngDTO;
 import java.util.List;
 public class TestData {
     public static void main(String[] args) {
-        IData d = new Data();
+        IData d;
+        boolean writeToDisk = false;
+        if (!writeToDisk)
+            d = new Data();
+        else d = new DataToDisk();
+
         for (IngDTO s : d.getAllIngredients()) {
             System.out.println(s);
         }
         try{
-            d.createIngredient(3, "øl", 222);
+            d.createIngredient(14, "øl", 222);
         }catch (IData.NummerFindesAllerede e){
             System.out.println(e.getMessage());
         }
         try{
-            d.createIngredient(new IngDTO(4, "vand", 300));
+            d.createIngredient(new IngDTO(15, "vand", 300));
         }catch (IData.NummerFindesAllerede e){
             System.out.println(e.getMessage());
         }

@@ -1,13 +1,15 @@
 package cont;
 import data.Data;
-        import data.IData;
+import data.DataToDisk;
+import data.IData;
         import dto.IngDTO;
         import funk.Funk;
         import funk.IFunk;
         import java.util.List;
 public class TestFunk {
     public static void main(String[] args) {
-        IData d = new Data();
+        boolean writeToDisk = true;
+        IData d = (!writeToDisk) ? d = new Data() : new DataToDisk();
         IFunk f = new Funk(d);
 
         for (IngDTO s : f.getAllIngredients()) {
