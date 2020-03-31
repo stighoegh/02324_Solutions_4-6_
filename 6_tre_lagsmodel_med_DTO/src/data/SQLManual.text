@@ -1,0 +1,13 @@
+Manual for SQL driven solution(Based on a windows machine):
+Download MariaDB - latest stable version or https://downloads.mariadb.org/mariadb/10.3.12/#file_type=msi
+Either select root as username and no password during setup, or change accordingly in the java file.
+Download MySQL Workbench - https://dev.mysql.com/downloads/workbench/
+
+In MySQL Workbench, create a new local SQL connection using port nr 3306, root username and blank password.
+The following code is used to initiate the database:
+
+create database ingredients;
+use ingredients; 
+create table ingr(id int primary key, name varchar(20),amount int);   
+
+With the server up and running, you can execute your java code
